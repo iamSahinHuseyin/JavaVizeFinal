@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        //Kullanıcıdan alınan vize ve final notuna göre ortalama hesaplama veahrf notu hesaplama.
+        //Kullanıcıdan alınan vize ve final notuna göre ortalama hesaplama veahrf notu hesaplama..
         Scanner sc = new Scanner(System.in);
         int vize;
         int finaL;
